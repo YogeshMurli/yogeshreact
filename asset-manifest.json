@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/yogeshreact/static/css/main.e6c13ad2.css",
+    "main.js": "/yogeshreact/static/js/main.c1b613cd.js",
+    "static/js/453.f849fb0e.chunk.js": "/yogeshreact/static/js/453.f849fb0e.chunk.js",
+    "index.html": "/yogeshreact/index.html",
+    "main.e6c13ad2.css.map": "/yogeshreact/static/css/main.e6c13ad2.css.map",
+    "main.c1b613cd.js.map": "/yogeshreact/static/js/main.c1b613cd.js.map",
+    "453.f849fb0e.chunk.js.map": "/yogeshreact/static/js/453.f849fb0e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c1b613cd.js"
+  ]
+}
